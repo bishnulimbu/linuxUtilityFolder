@@ -1,1 +1,3 @@
 hstr for command histroy and search.
+find /path -name "filename"  finding the file    find /path/to/search -type d (for directories);
+
